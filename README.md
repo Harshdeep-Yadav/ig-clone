@@ -1,1 +1,1 @@
-"# Instagram Clone - using MERN stack" 
+"Instagram Clone - using MERN stack" 
