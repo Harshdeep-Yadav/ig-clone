@@ -1,1 +1,1 @@
-"# ig-clone" 
+"# Instagram Clone - using MERN stack" 
