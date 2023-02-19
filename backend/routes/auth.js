@@ -8,7 +8,7 @@ const requireLogin = require("../middleware/requireLogin");
 
 router.post("/signup", (req, res) => {
   const { name, email, password, pic } = req.body;
-  console.log(req.body);
+  // console.log(req.body);
   if (!email || !name || !password) {
     res.status(422).json({ error: "Please Add all the fields" });
   } else {
